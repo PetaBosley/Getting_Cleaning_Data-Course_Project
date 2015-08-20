@@ -18,13 +18,16 @@ y_train.txt
 These correspond to data frames within the script;
 
 FEATURES_DF (with sample data)
-Measure_Code	Measurement
-1	tBodyAcc-mean()-X
-2	tBodyAcc-mean()-Y
-3	tBodyAcc-mean()-Z
-4	tBodyAcc-std()-X
-5	tBodyAcc-std()-Y
-6	tBodyAcc-std()-Z
+
+Measure_Code |	Measurement       |
+-------------|--------------------|
+1	           |  tBodyAcc-mean()-X |
+2	           |	tBodyAcc-mean()-Y |
+3	           |	tBodyAcc-mean()-Z |
+4	           |	tBodyAcc-std()-X  |
+5	           |	tBodyAcc-std()-Y  |
+6	           |	tBodyAcc-std()-Z  |
+
 
 ACTIVITY_LABELS.TXT (with sample data)
 Act_Code	Activity
