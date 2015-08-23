@@ -9,18 +9,12 @@ Each required task in the project (1 through 5) has been separately coded within
 script and labelled with the Task number and Title to assist the peer reviewer.
 
 Task 1
-
+Merges the training and the test sets to create one data set.
 Task 2
-
-My original intention was to use grep() to extract the columns with "mean" and "std" in the column names, but the 
-script continually failed here.
-The alternate, manual, solution was to examine the features.txt and features_info.txt files supplied in the download along
-with the data frame that the features data had been loaded to and extract the relevant columns by column number 
-(dplyr / select function).
-
-
+Extracts only the measurements on the mean and standard deviation for each measurement. 
 Task 3 
-
+Uses descriptive activity names to name the activities in the data set
 Task 4
-
+Appropriately labels the data set with descriptive variable names. 
 Task 5
+From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
