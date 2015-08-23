@@ -30,12 +30,14 @@ Measure_Code |	Measurement       |
 
 
 ACTIVITY_LABELS.TXT (with sample data)
-Act_Code	Activity
-1	WALKING
-2	WALKING_UPSTAIRS
-3	WALKING_DOWNSTAIRS
-4	SITTING
-5	STANDING
-6	LAYING
+
+Act_Code	   |   Activity           |
+-------------|----------------------|
+1	           |   WALKING            |
+2		         |   WALKING_UPSTAIRS   |
+3	           |   WALKING_DOWNSTAIRS |
+4	           |   SITTING            |
+5	           |   STANDING           |
+6	           |   LAYING             |
 
 
